@@ -52,5 +52,3 @@ Contributions are welcome! If you'd like to contribute to Tincat, please follow 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-Feel free to customize this README with additional information, such as screenshots, technical details, or any other relevant content for your project. Good luck with your Tincat project!
